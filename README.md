@@ -33,7 +33,7 @@ Follow these steps to set up and run the project locally.
 
 ### **Step 1: Clone the Repository**
 
-git clone \[https://github.com/bitphonix/Advance-RAG-Assistant.git\](https://github.com/bitphonix/Advance-RAG-Assistant.git)  
+git clone https://github.com/bitphonix/Advance-RAG-Assistant.git  
 cd Advance-RAG-Assistant
 
 ### **Step 2: Install Dependencies**
