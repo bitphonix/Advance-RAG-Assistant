@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+rank_bm25
+sentence-transformers
+huggingface-hub
+unstructured[all-docs]
